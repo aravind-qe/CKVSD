@@ -1,0 +1,10 @@
+## Prerequisites
+
+- Node.js (v14 or higher) and npm installed on your machine.
+- Cypress installed on your machine
+- Git installed on your machine
+
+## Execution instructions
+
+- Clone the repo locally, run npm install to install any dependencies, then run npx cypress install on the dir before using npx cypress open.
+- On the cypress runner, chose a spec file to run that file.
